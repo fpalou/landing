@@ -1,0 +1,13 @@
+.btn-main{
+  text-decoration: none;
+  color: white;
+  background-color: #A63208 ;
+  border-radius: 13px;
+  width: 21%;
+  padding: 12px 8px;
+  font-size: 0.86rem;
+  line-height: 0.86rem;
+}
+:hover.btn-main{
+  background-color: #73310A;
+}

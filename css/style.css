@@ -1,0 +1,51 @@
+/* Fonts*/
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Poppins:wght@700');
+
+/* Fontawesome*/
+@import url('https://use.fontawesome.com/releases/v6.1.2/css/all.css');
+
+/* Components */
+@import url(components/banner.css);
+@import url(components/btn.css);
+@import url(components/card.css);
+@import url(components/container.css);
+@import url(components/footer.css);
+
+/* Color Pallette
+#025E73 dark blue
+increasing shades of browns:
+#F2C288 almost cream
+#D98C4A almond
+#73310A brown
+#A63208 more alive like bark sort of red
+
+text #1B365C (?)
+background #7EA1C4 (?)
+
+h1
+font-size: 3.75rem;
+    line-height: 3.75rem;
+p 1/2 de h1
+font-size: 1.875rem;
+    line-height: 2.25rem;
+btn 1/3 de h1
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+*/
+
+/* Utilities */
+body {
+  margin: 0;
+  font-family: Open Sans;
+  background-color: #F2C288;
+}
+
+h1, h2, h3, h4 {
+  font-family: Poppins;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* Custom design below! */

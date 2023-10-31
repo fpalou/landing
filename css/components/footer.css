@@ -1,0 +1,33 @@
+.footer{
+  display: flex;
+  height: 200px;
+  background-position: center;
+  background-size: cover;
+  background-color: #545665;
+  align-items: flex-end;
+  color: #7EA1C4;
+}
+
+/*----------------------------*/
+.footer-icons{
+    display: flex;
+    list-style: none;
+    padding-left: 0px;
+    justify-content: center;
+
+}
+.footer-icons ul{
+
+  padding-left: 0px;
+
+}
+.footer-icons li{
+
+  display: inline;
+  padding: 0px 14px;
+  font-size: 48px;
+}
+
+.footer-icons i{
+  color: #7EA1C4;
+}
